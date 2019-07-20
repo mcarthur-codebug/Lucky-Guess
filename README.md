@@ -1,2 +1,4 @@
-# Lucky-Guess
-Hack-a-long: Lucky Guess 
+# Lucky Guess
+
+
+![Example Lucky Guess](leprechaun.gif)
